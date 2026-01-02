@@ -11,7 +11,7 @@ const mahmud = [
   "জানু",
   "বেবি",
   "wifey",
-  "hinata",
+  "Sizuka",
 ];
 
 const baseApiUrl = async () => {
@@ -162,7 +162,7 @@ module.exports.onChat = async ({ api, event }) => {
           "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",  
           "🐒🐒🐒",
           "bye",
-          "naw amr boss k message daw m.me/mahmud0x7",
+          "naw amr boss k message daw messenger.com /61574715983842",
           "mb ney bye",
           "meww",
           "গোলাপ ফুল এর জায়গায় আমি দিলাম তোমায় মেসেজ",
@@ -196,7 +196,7 @@ module.exports.onChat = async ({ api, event }) => {
           "আজব তো__😒",
           "আমাকে ডেকো না,আমি ব্যাস্ত আসি🙆🏻‍♀",
           "𝗕𝗯𝘆 বললে চাকরি থাকবে না",
-          "𝗕𝗯𝘆 𝗕𝗯𝘆 না করে আমার বস মানে, MahMUD ,MahMUD ও তো করতে পারো😑?",
+          "𝗕𝗯𝘆 𝗕𝗯𝘆 না করে আমার বস মানে, Adnan ,Adnan ও তো করতে পারো😑?",
           "আমার সোনার বাংলা, তারপরে লাইন কি? 🙈",
           "🍺 এই নাও জুস খাও..!𝗕𝗯𝘆 বলতে বলতে হাপায় গেছো না 🥲",
           "হটাৎ আমাকে মনে পড়লো 🙄",
